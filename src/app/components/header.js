@@ -17,7 +17,7 @@ const Header = () => {
           <ul className='d-flex justify-content-center align-items-center mb-0'>
             <li><Link href="/">Home</Link></li>
             <li><Link href="#">Services</Link></li>
-            <li><Link href="./simulation">Simulation</Link></li>
+            <li><Link href="./elearn">E-Learning</Link></li>
             <li><Link href="#">Svagyan</Link></li>
             <li><Link href="#">Careers</Link></li>
             <li><Link href="#">Contact</Link></li>
