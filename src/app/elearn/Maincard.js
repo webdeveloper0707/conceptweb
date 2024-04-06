@@ -10,7 +10,7 @@ import './css/style.css';
 function Maincard() {
   return (
       <div className="container p-3 ">
-      <Card style={{ width: '80%',position:'relative',left:'10%' }}>
+      <Card style={{ width: '70%',position:'relative',left:'15%' }}>
           <Card.Body>
             <Image variant="top" src={simimg} className='maincardimg'  />
             <hr />

@@ -5,16 +5,31 @@
 }
 
 .head2 .navlink.Active{
-    border-bottom: 4px solid #9445ab9e;
+    color: #8fba13;
+    border-bottom: 4px solid #ba53ac;
 }
 .head2 .navlink{
     /* transition: .5s ease-in-out; */
     font-size: 17px;
     text-transform: uppercase;
     font-weight: 500;
+    color: #000;
+}
+
+.MediumHead .mediumlink.Active{
     color: #8fba13;
+    border-bottom: 2px solid #6433aa !important;
+    
 }
 
 .head2 .navlink.Active:hover{
     border-bottom: 4px solid #773aab;
+}
+
+.MediumHead a{
+    color: black;
+}
+.MediumHead a:Hover{
+    color: #8fba13;
+    border-bottom: 3px solid #773aab;
 }

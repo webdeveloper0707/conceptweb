@@ -5,7 +5,6 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import './css/header.css';
 import imagelogo from '../../../public/Concept_Group_logo.png';
 
-
 const Header = () => {
   return (
     <header className="mainHeader">
